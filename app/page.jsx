@@ -5,7 +5,7 @@ export default function Home() {
         <>
             <div className="text-3xl font-bold text-center text-red-400">
                 <h1>Project smart home</h1>
-                <p>Waiting UI</p>
+                <p>Waiting UI Processing</p>
             </div>
         </>
     );
