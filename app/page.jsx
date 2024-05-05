@@ -3,9 +3,9 @@ import Image from "next/image";
 export default function Home() {
     return (
         <>
-            <div className="text-3xl font-bold text-center text-red-400">
+            <div>
                 <h1>Project smart home</h1>
-                <p>Waiting UI Processing</p>
+                <p className="text-cyan-600 text-center">Waiting UI Processing</p>
             </div>
         </>
     );
